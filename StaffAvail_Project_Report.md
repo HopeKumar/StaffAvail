@@ -94,7 +94,7 @@ The Physical Layer contains RFID cards and the MFRC522 reader. The Edge Controll
 
 The Vert.x backend is responsible for receiving attendance events, processing RFID transactions asynchronously, maintaining staff availability state, and storing attendance records in MongoDB.
 
-![Figure 3. StaffAvail System Architecture](/mnt/data/System Architecture Diagram(1).png)
+![Figure 3. StaffAvail System Architecture](images/System Architecture Diagram.png)
 
 **Figure 3. StaffAvail System Architecture**
 
@@ -124,7 +124,7 @@ The active buzzer generates audible alerts to confirm successful attendance regi
 
 ### Pin Connection Diagram
 
-![Figure 1. ESP32 Peripheral Pin Connections](/mnt/data/Circuit Diagram with Pins .PNG)
+![Figure 1. ESP32 Peripheral Pin Connections](images/Circuit Diagram with Pins .PNG)
 
 **Figure 1. ESP32 Peripheral Pin Connections**
 
@@ -132,7 +132,7 @@ The active buzzer generates audible alerts to confirm successful attendance regi
 
 ## Complete Hardware Wiring
 
-![Figure 2. Complete Hardware Wiring Diagram](/mnt/data/Circuit Diagram with Pins .PNG)
+![Figure 1. Complete Hardware Wiring Diagram](images/Circuit Diagram with Pins .PNG)
 
 **Figure 2. Complete Hardware Wiring Diagram**
 
@@ -259,7 +259,7 @@ The wiring arrangement shown in Figure 2 enabled stable communication among all 
 
 ### Backend Processing Log
 
-![Figure 4. Backend Attendance Event Processing](/mnt/data/Backend Log.jpeg)
+![Figure 4. Backend Attendance Event Processing](images/Backend Log.jpeg)
 
 **Figure 4. Backend Attendance Event Processing**
 
